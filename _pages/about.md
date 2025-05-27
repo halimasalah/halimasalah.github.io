@@ -1,32 +1,33 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+About me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi! I’m Halima Salah, a Ph.D. candidate in Civil and Environmental Engineering at Wayne State University, where I specialize in atmospheric modeling, air quality, and public health. My research bridges environmental engineering and data science, with a focus on how emissions, climate, and urban systems interact to shape health outcomes—especially in under-resourced communities.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I care deeply about the public health implications of air pollution, the equity dimensions of environmental exposure, and the transparency and accessibility of environmental data. I also lead community-engaged science programs that bring environmental education to youth and underrepresented communities, and I’m committed to interdisciplinary approaches that connect science, storytelling, and social justice.
 
-Getting started
+My Work and Research
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I study the intersection of air quality, environmental data, and public health, with a focus on how pollution impacts vulnerable communities. My work integrates atmospheric modeling, emissions inventory evaluation, satellite data analysis, and health risk assessment to better understand how pollutants like PM₂.₅, NO₂, and ozone affect human health on both local and global scales.
 
-Site-wide configuration
+In my dissertation, I conduct intercomparisons of global emissions inventories and assess the resulting variations in human health impacts due to air pollution. I use tools such as the CESM CAM-chem model and the Global Exposure Mortality Model (GEMM) to simulate long-term exposure and estimate premature deaths and years of life lost.
+
+I was the 2022–2023 Ralph Cicerone Fellow in Earth System Science Modeling at the NSF National Center for Atmospheric Research (NCAR), where I worked in the Atmospheric Chemistry Observations and Modeling Lab (ACOM). In 2021–2022, I was awarded the NSF-funded T-RUST (Transformative Research in Urban Sustainability Training) fellowship at Wayne State University, where I co-led the graduate seminar “Emerging Hazards Associated with Climate Change.” I was also the inaugural [UN-RCE Detroit-Windsor Fellow] (https://s.wayne.edu/unrce/2023/09/14/introducing-halima-salah-our-inaugural-un-rce-graduate-fellow/) for 2023–2025, where I work at the intersection of environmental sustainability, education, and community engagement.
+
+Across all my work, I am committed to bridging rigorous atmospheric research with community-informed environmental justice and expanding access to environmental data.
+
+Background
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am a Somali-Canadian researcher and engineer, raised between North America, Somalia, and the Gulf. My academic and personal journey has been shaped by cross-cultural experiences and a deep awareness of the environmental injustices affecting communities in both the Global South and the industrialized world.
+
+I earned my B.Sc. in Civil Engineering with a minor in Environmental and Water Engineering from the American University of Sharjah (AUS) in the United Arab Emirates in 2017. Before graduate school, I worked in water resources and wastewater treatment industry. I went on to complete my M.S. in Civil Engineering at Wayne State University in 2021 and am currently persueing my Ph.D. in Civil Engineering.
 
 Create content & metadata
 ------
