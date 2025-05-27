@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Achievements"
+collection: achievements
+type: "achievements"
+permalink: /achievements
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[1] 2024 Outstanding Student Presentation Award (OSPA) American Geophysical Union
 
-Heading 1
-======
+[2] 2023 American Geophysical Union Student Travel Grant
 
-Heading 2
-======
+[3] 2023-2025 United Nations Regional Centre of Expertise (UN-RCE) Detroit-Windsor
 
-Heading 3
-======
+[4] 2022-2023 National Center for Atmospheric Research (NCAR) Atmospheric Chemistry Observations and
+Modeling (ACOM) Ralph Cicerone Fellow
+
+[5] 2021-2022 National Science Foundation Research Traineeship (NSF-NRT) Transformative Research in Urban
+Sustainability (T-RUST) Fellowship
